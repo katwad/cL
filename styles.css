@@ -1,27 +1,6 @@
 .header {
 	visibility: hidden;
   }
-  
-section {
-	padding: 20px !important;
-  	border-radius: 10px !important;
-  	margin: 20px !important;
-  	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-  	
-  }
-
-.page-section {
-	padding: 20px !important;
-  	border-radius: 10px !important;
-  	margin: 20px !important;
-  	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-  	
-  }
-
-.section-background {
-  	border-radius: 10px !important;
-
-  }
 
 button {
 	padding: 10px !important;
